@@ -40,7 +40,7 @@ https://www.mysql.com/downloads/
 All the coed is run on the ‘PyCharm 2022.2.1’ 
 https://www.jetbrains.com/zh-cn/pycharm/download/
 
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/README IMG/1.png)
+![Image text]([https://raw.github.com/yourName/repositpry/master/yourprojectName/README IMG/1.png](https://github.com/lXinchenn/team12/blob/master/README%20IMG/1.png))
 We should download the professional hence it is for 30days free and if you are a student it all free
 
 Management system:
