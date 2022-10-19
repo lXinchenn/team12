@@ -40,36 +40,45 @@ https://www.mysql.com/downloads/
 All the coed is run on the ‘PyCharm 2022.2.1’ 
 https://www.jetbrains.com/zh-cn/pycharm/download/
 
-![image]([https://raw.github.com/yourName/repositpry/master/yourprojectName/README IMG/1.png](https://github.com/lXinchenn/team12/blob/master/README%20IMG/1.png))
+![1](https://github.com/lXinchenn/team12/blob/master/README%20IMG/1.png)
+
 We should download the professional hence it is for 30days free and if you are a student it all free
 
 Management system:
 http://127.0.0.1:8000/admin
+![2](https://github.com/lXinchenn/team12/blob/master/README%20IMG/2.png)
 
 Open api and then click the ‘run manage’ or use ‘shift+f10’ to run the code
 Make sure ‘mysql’ is open or it show like this one
+![3](https://github.com/lXinchenn/team12/blob/master/README%20IMG/3.png)
 
 If all network environments are configured， it will show like that one and it have the website.
+![4](https://github.com/lXinchenn/team12/blob/master/README%20IMG/4.png)
+
 
 Then when we open the website is shows me page not found dont worry you are right beceuse we just need add ‘\admin’
-
-
-
+![5](https://github.com/lXinchenn/team12/blob/master/README%20IMG/5.png)
 
 Hecne management page is open.
 
+![6](https://github.com/lXinchenn/team12/blob/master/README%20IMG/6.png)
 
 Main programming website:
 http://localhost:8080          
 Remember open management page first
 Open the file named ‘pc’ and then click the ‘run manage’ or use ‘shift+f10’ to run the code
+![7](https://github.com/lXinchenn/team12/blob/master/README%20IMG/7.png)
 
 Waiting for 30-60 seconds (depend on computer) it will show the website
+![8](https://github.com/lXinchenn/team12/blob/master/README%20IMG/8.png)
 
 Then just click it
 
+![9](https://github.com/lXinchenn/team12/blob/master/README%20IMG/9.png)
+
 
 Note:If the network environment is not configured it will show up like this:
+![10](https://github.com/lXinchenn/team12/blob/master/README%20IMG/10.png)
   
 
 Future plan: Move down the path recommendation and students can select courses by years. The courses on the web page are moveable. Further beautify the design of the web page.
